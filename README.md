@@ -1,8 +1,8 @@
 
 ### [RU][1] Описание проекта на русском
-[1]: https://github.com/udraugr/ft_ls/new/master?readme=1#ft_ls---%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-ls "RU"
+[1]: https://github.com/udraugr/ft_ls/tree/master#ft_ls---%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-ls "RU"
 ### [EN][2] Description of the project in English
-[2]: https://github.com/udraugr/ft_ls/new/master?readme=1#ft_ls---own-implementation-of-ls "EN"
+[2]: https://github.com/udraugr/ft_ls#ft_ls---own-implementation-of-ls "EN"
 
 # FT_LS - собственная реализация ls
 ls - это утилита отображающее содержимое каталога.
