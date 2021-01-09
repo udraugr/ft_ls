@@ -46,10 +46,10 @@ all: $(NAME)
 
 $(NAME): $(OBJ)
 	@make -C libft
-	gcc -Wall -Wextra -Werror -I$(HDR) $(OBJ) $(LIB) -o $(NAME)
+	clang -Wall -Wextra -Werror -I$(HDR) $(OBJ) $(LIB) -o $(NAME)
 
 %.o: %.c
-	gcc -Wall -Wextra -Werror -c $< -o $@
+	clang -Wall -Wextra -Werror -c $< -o $@
 
 clean:
 	@/bin/rm -f $(OBJ)
